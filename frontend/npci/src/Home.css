@@ -1,0 +1,7 @@
+.home-button {
+    background-color: rgb(225, 255, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 14px;
+    cursor: pointer;
+}
